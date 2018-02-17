@@ -11,12 +11,10 @@
 		"node": true
 	},
 	"plugins": [
-		"inferno",
 		"flowtype"
 	],
 	"extends": [
 		"eslint:recommended",
-		"plugin:inferno/recommended",
 		"plugin:flowtype/recommended"
 	],
 	"rules": {

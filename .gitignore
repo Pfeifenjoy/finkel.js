@@ -72,3 +72,4 @@ yarn.lock
 .vagrant/
 
 package-lock.json
+flow-typed
